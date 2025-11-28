@@ -1,2 +1,2 @@
 # Proyecto de prueba
-Hola soy Oscar Arenas
+Me gusta el futbol
