@@ -1,2 +1,2 @@
 # Proyecto de prueba
-Me gusta el futbol
+Me gusta el futbol.
